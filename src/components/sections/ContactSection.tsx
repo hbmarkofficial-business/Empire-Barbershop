@@ -108,7 +108,7 @@ export const ContactSection = () => {
             <div className="relative">
               <div className="aspect-square lg:aspect-[4/5] rounded-sm overflow-hidden border border-border">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38856.69600076693!2d13.302471769531214!3d52.50550254346926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a84f801c51a5e7%3A0xfe73a645831f61f1!2sDark%20Barbershop%20-%20Berlin!5e0!3m2!1sde!2sde!4v1771283027947!5m2!1sde!2sde"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d38856.69600076693!2d13.302471769531214!3d52.50550254346926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47a85100657d25d7%3A0x7952c737ef319e6f!2sEmpire%20Barbershop!5e0!3m2!1sde!2sde!4v1771283897240!5m2!1sde!2sde"
                   width="100%"
                   height="100%"
                   style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
